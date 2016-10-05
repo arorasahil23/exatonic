@@ -1,0 +1,47 @@
+body {
+    background-color: #B3B3B3;
+    margin: 2%;
+}
+
+h1 {
+    color: white;
+}
+
+header {
+    text-align: center;
+    background-color:#00b7ea;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    background-color:#00b7ea;
+    font-size: 40px;
+    color:#B3B3B4; 
+}
+
+p {
+    font-size: 20px;
+}
+
+details {
+    font-style: italic;
+}
+
+section {
+  	width:30%;
+	margin-right: 2%;
+	display:inline-block;
+	float:left;
+}
+
+footer {
+    clear: both;
+    background-color:#00b7ea; 
+    padding: 15px;
+    height: 50%;
+}
+
+img {
+    width: 75px;
+}
