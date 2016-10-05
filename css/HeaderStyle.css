@@ -2,94 +2,176 @@ body {
     background-color: #f5f5f5;
 }
 
-.head {
-	color: #fff;
-    /*Background: #23292f;*/
-    background: -moz-linear-gradient(top, #666666 0%, #00b7ea 100%);
-	background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
-	background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
-	background: linear-gradient(#666666 0%, #00b7ea 100%); 
-    padding: 0 auto;
-    text-align: center;
-   /* font-size: 250%;
-    font-family: Satisfy, cursive;  */
-  <!--  background: url('success.jpg'); 
-    background-repeat: no-repeat;
-    background-attachment: fixed;  --->
-    background-size:100% 70% ;
-    margin-bottom: 2%;
-    height: 500px;
-    margin-top: 0;
-    
-    
-    }
 marquee {
-    color: #000;
+    color: #333;
     font-size: 100%;
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 0;
-}
+} 
 
 .sahil{
 
     height:300px;
-    background-image: url(mech.jpg);
+    background-image: url(mechanical1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 2px 2px;
     border-style: solid;
-    border-width: 5px;
+    border-width: 10px;
     border-color: white;
     /*background-color: #000;*/
-    margin-left: 6%;
-    
+    opacity: 1;
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+.sahil:hover{
+    background-image: url(mechTiger.jpg);
+    -webkit-box-shadow: 0px 0px 15px 15px #fff;
+    box-shadow: 0px 0px 15px 15px #fff;
+    border-radius:50%;
+    opacity: 0.6;
+    -webkit-transform: rotate(720deg);
+    transform: rotate(360deg);
 }
 
 .sahil2{
 
     height:300px;
-    background-image: url(cse1.png);
+    background-image: url(CSE1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 2px 2px;
     border-style: solid;
-    border-width: 5px;
+    border-width: 10px;
     border-color: white;
     /*background-color: #000;*/
-    margin-left: 6%;
-    
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+}
+
+.sahil2:hover{
+    background-image: url(cse-rocks.png);
+    opacity: 0.6;
+    border-radius:50%;
+    box-shadow: 0 10px 6px -6px grey;
 }
 
 .sahil3{
 
     height:300px;
-    background-image: url(ece3.jpg);
+    background-image: url(ECE2.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     padding: 2px 2px;
     border-style: solid;
-    border-width: 5px;
+    border-width: 10px;
     border-color: white;
     /*background-color: #000;*/
-    margin-left: 6%;
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+        
+}
+
+.sahil3:hover {
+    background-image: url(ece1.jpg);
+    opacity: 0.6;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.sahil4{
+
+    height:300px;
+    background-image: url(IBT1.jpg);  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 2px 2px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    /*background-color: #000;*/
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+    
+      
+}
+
+.sahil4:hover{
+    background-image: url(ibt.png);
+    opacity: 0.6;
+    -webkit-transform: skew(0deg,20deg);
+    transform: skew(0deg,20deg);
     
 }
+
 .content {
-    margin-top: 20%;
-    margin-bottom: 40%;
+    margin-top: 2%;
+    margin-bottom: 35%;
+    
+    
 }
 
 .content p{ 
-  margin-top: 100%;
-  text-align: center;
+    margin-top: 95%;
+    text-align: center;
     font-family: cursive, serif, sans-serif;
     font-size: 150%;
     
+    
 }
-h1 {
+
+.head {
+    color: #333;
+    text-align: center;
+    background-color: #f5f5f5;
+    
+    
+}
+
+.footer p {
+    text-align: center;
+/*    font-family: "times new roman", serif, cursive, sans-serif;  */
+    font-size: 250%;
+    color: #333;
+    
+}
+
+.right p {
+    font-size: 130%;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.footer a {
+    color: #337ab7;
+}
+
+
+.feature{
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+.feature h3 {
+    text-align: center;
+}
+
+.last p a {
+    color: #337ab7;
+}
+
+/*h1 {
      
     font-size: 25px;
     font-family: cursive, sans-serif, "times new roman";
@@ -119,24 +201,10 @@ button {
 
 button a {
     text-decoration: none;
-}
+}*/
 
-.footer p {
-    text-align: center;
-    font-family: "times new roman", serif, cursive, sans-serif;
-    font-size: 250%;
-    color: #333;
-    margin-top: 6%;
-}
 
-.right p {
-    font-size: 150%;
-    margin-left: 8%;
-    margin-right: 8%;
-    text-align: center;
-}
-
-.active {
+/*.active {
     color: #fff;
 }
 
@@ -146,4 +214,4 @@ button a {
 
 .body p a:hover {
     color: #000;
-}
+}*/
