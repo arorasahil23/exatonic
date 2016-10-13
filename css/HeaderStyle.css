@@ -13,7 +13,7 @@ marquee {
 .sahil{
 
     height:300px;
-    background-image: url(mechanical1.jpg);
+    background-image: url(../css/Images/Mech/mechanical1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,7 +28,7 @@ marquee {
 }
 
 .sahil:hover{
-    background-image: url(mechTiger.jpg);
+    background-image: url(../css/Images/Mech/mechTiger.jpg);
     -webkit-box-shadow: 0px 0px 15px 15px #fff;
     box-shadow: 0px 0px 15px 15px #fff;
     border-radius:15%;
@@ -39,7 +39,7 @@ marquee {
 .sahil2{
 
     height:300px;
-    background-image: url(CSE1.jpg);
+    background-image: url(../css/Images/CSE/CSE1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,7 +53,7 @@ marquee {
 }
 
 .sahil2:hover{
-    background-image: url(cse-rocks.png);
+    background-image: url(../css/Images/CSE/cse-rocks.png);
     border-radius:50%;
     box-shadow: 0 10px 6px -6px grey;
 }
@@ -61,7 +61,7 @@ marquee {
 .sahil3{
 
     height:300px;
-    background-image: url(ECE2.png);
+    background-image: url(../css/Images/ECE/ECE2.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -76,7 +76,7 @@ marquee {
 }
 
 .sahil3:hover {
-    background-image: url(ece1.jpg);
+    background-image: url(../css/Images/ECE/ece1.jpg);
    /* -webkit-transform: rotate(90deg);
     transform: rotate(90deg);*/
 }
@@ -84,7 +84,7 @@ marquee {
 .sahil4{
 
     height:300px;
-    background-image: url(IBTmain.jpeg);  
+    background-image: url(../css/Images/IBT/IBTmain.jpeg);  
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -100,7 +100,7 @@ marquee {
 }
 
 .sahil4:hover{
-    background-image: url(ibt.png);
+    background-image: url(../css/Images/IBT/ibt.png);
     -webkit-transform: skew(0deg,20deg);
     transform: skew(0deg,20deg);
     

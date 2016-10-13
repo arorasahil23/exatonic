@@ -3,7 +3,7 @@ body{background-color: #f5f5f5;}
 .head1 {
     height: 50%;
     background-color: #f5f5f5;
-    background-image: url(exam.jpg);
+    background-image: url(../css/Images/exam.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,7 +21,7 @@ body{background-color: #f5f5f5;}
 .sahil{
     width: 250px;
     height:250px;
-    background-image: url(num1.png);
+    background-image: url(../css/Images/CSE/num1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,7 +49,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num2.png);
+    background-image: url(../css/Images/CSE/num2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -74,7 +74,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num3.png);
+    background-image: url(../css/Images/CSE/num3.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -100,7 +100,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num4.png);  
+    background-image: url(../css/Images/CSE/num4.png);  
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -128,7 +128,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num5.png);
+    background-image: url(../css/Images/CSE/num5.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -157,7 +157,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num6.png);
+    background-image: url(../css/Images/CSE/num6.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -183,7 +183,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num7.png);
+    background-image: url(../css/Images/CSE/num7.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -210,7 +210,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(num8.png);  
+    background-image: url(../css/Images/CSE/num8.png);  
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

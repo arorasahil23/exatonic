@@ -3,7 +3,7 @@ body{background-color: #f5f5f5;}
 .head1 {
     height: 50%;
     background-color: #f5f5f5;
-    background-image: url(exam.jpg);
+    background-image: url(../css/Images/exam.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,7 +21,7 @@ body{background-color: #f5f5f5;}
 .sahil{
     width: 250px;
     height:250px;
-    background-image: url(ecesem1.jpg);
+    background-image: url(../css/Images/ECE/ecesem1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,7 +49,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem2.jpg);
+    background-image: url(../css/Images/ECE/ecesem2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -74,7 +74,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem3.jpg);
+    background-image: url(../css/Images/ECE/ecesem3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -100,7 +100,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem4.jpg);  
+    background-image: url(../css/Images/ECE/ecesem4.jpg);  
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -128,7 +128,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem5.jpg);
+    background-image: url(../css/Images/ECE/ecesem5.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -157,7 +157,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem6.jpg);
+    background-image: url(../css/Images/ECE/ecesem6.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -183,7 +183,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem7.jpg);
+    background-image: url(../css/Images/ECE/ecesem7.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -210,7 +210,7 @@ body{background-color: #f5f5f5;}
 
     width: 250px;
     height:250px;
-    background-image: url(ecesem8.jpg);  
+    background-image: url(../css/Images/ECE/ecesem8.jpg);  
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
