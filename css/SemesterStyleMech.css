@@ -256,9 +256,15 @@ body{background-color: #f5f5f5;}
 .end {
     text-align: justify;
     margin-bottom: 2%;
-    margin-top: 8%;
+    margin-top: 12%;
+    margin-left: 10%;
     
 }
+
+.end p {
+    margin-left: 3%;
+}
+
 .end .fa {
     color: #000;
     background-color: ;
