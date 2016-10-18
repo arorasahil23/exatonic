@@ -8,15 +8,15 @@ marquee {
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 0;
-} 
+}
 
 .sahil{
 
-    height:300px;
+    height:264px;
     background-image: url(../css/Images/Mech/mechanical1.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 80% 100%;
     padding: 2px 2px;
     border-style: solid;
     border-width: 10px;
@@ -38,11 +38,11 @@ marquee {
 
 .sahil2{
 
-    height:300px;
+    height:264px;
     background-image: url(../css/Images/CSE/CSE1.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 80% 100%;
     padding: 2px 2px;
     border-style: solid;
     border-width: 10px;
@@ -60,11 +60,11 @@ marquee {
 
 .sahil3{
 
-    height:300px;
+    height:264px;
     background-image: url(../css/Images/ECE/ECE2.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 80% 100%;
     padding: 2px 2px;
     border-style: solid;
     border-width: 10px;
@@ -72,7 +72,7 @@ marquee {
     /*background-color: #000;*/
     -webkit-transition: all 0.7s ease;
     transition: all 0.7s ease;
-        
+
 }
 
 .sahil3:hover {
@@ -83,11 +83,11 @@ marquee {
 
 .sahil4{
 
-    height:300px;
-    background-image: url(../css/Images/IBT/IBTmain.jpeg);  
+    height:264px;
+    background-image: url(../css/Images/IBT/IBTmain.jpeg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 80% 100%;
     padding: 2px 2px;
     border-style: solid;
     border-width: 10px;
@@ -95,39 +95,39 @@ marquee {
     /*background-color: #000;*/
     -webkit-transition: all 0.7s ease;
     transition: all 0.7s ease;
-    
-      
+
+
 }
 
 .sahil4:hover{
     background-image: url(../css/Images/IBT/ibt.png);
     -webkit-transform: skew(0deg,20deg);
     transform: skew(0deg,20deg);
-    
+
 }
 
 .content {
     margin-top: 2%;
     margin-bottom: 35%;
-    
-    
+
+
 }
 
-.content p{ 
-    margin-top: 95%;
+.content p{
+    margin-top: 87%;
     text-align: center;
     font-family: cursive, serif, sans-serif;
-    font-size: 150%;
-    
-    
+    font-size: 128%;
+
+
 }
 
 .head {
     color: #333;
     text-align: center;
     background-color: #f5f5f5;
-    
-    
+
+
 }
 
 .footer p {
@@ -135,7 +135,7 @@ marquee {
 /*    font-family: "times new roman", serif, cursive, sans-serif;  */
     font-size: 250%;
     color: #333;
-    
+
 }
 
 .right p {
@@ -185,7 +185,7 @@ marquee {
 .end a {color: #337ab7;}
 
 /*h1 {
-     
+
     font-size: 25px;
     font-family: cursive, sans-serif, "times new roman";
 }
@@ -209,7 +209,7 @@ marquee {
 
 button {
     max-width: 50%;
-        
+
 }
 
 button a {
